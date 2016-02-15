@@ -2,3 +2,4 @@
 .python-version
 *.py[cod]
 *.mp3
+*.db

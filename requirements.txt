@@ -1,0 +1,5 @@
+feedparser
+feedgen
+parsel
+pydub
+requests
